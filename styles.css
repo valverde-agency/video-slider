@@ -39,12 +39,16 @@
   
  .wrapper_main-slider {
   display: flex;
+  max-width: 1220px;
+  margin: auto;
+  padding: 0 20px;
+
 }
 
   
-/* .wrapper-mobile_main-slider {
+.wrapper-mobile_main-slider {
   display: none;
-} */
+}
 
 .views_main_slider {
   position: absolute;
